@@ -1,5 +1,5 @@
 # List of projects
-inMoov /n
-Smart House /n
-Smart humidifier /n
+inMoov 
+Smart House 
+Smart humidifier 
 Project management system
